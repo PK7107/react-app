@@ -3,7 +3,7 @@ import './App.css';
 const App = () => {
   return (
     <>
-      <p>Elo</p>    
+      <p>Elo 320</p>    
     </>
   );
 }
